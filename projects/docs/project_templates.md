@@ -14,6 +14,14 @@ Click on each image below to see a full browser version!
 
 <img src="template_images/MouseOrofacialBehaviors.svg" width="100%">
 
+# Brain-wide map of neural activity during complex behaviour
+
+<img src="template_images/BrainwideMapIBL.svg" width="100%">
+
+# Behavior representations in mouse visual cortex
+
+<img src="template_images/MouseOrofacialBehaviors.svg" width="100%">
+
 # Mapping brain activation and representation with fMRI
 
 <img src="template_images/MappingBrainRepresentationwithfMRI.svg" width="100%">

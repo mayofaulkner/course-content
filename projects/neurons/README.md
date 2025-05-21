@@ -64,6 +64,6 @@ Credit for data curation: Mayo Faulkner
 
 ### References
 
-- International Brain Laboratory et al. (2023) A Brain-Wide Map of Neural Activity during Complex Behaviour doi: [10.1101/2023.07.04.547681]([https://doi.org/10.1101/2023.07.04.547681])
+- International Brain Laboratory et al. (2023) A Brain-Wide Map of Neural Activity during Complex Behaviour doi: [10.1101/2023.07.04.547681](https://doi.org/10.1101/2023.07.04.547681)
 
 
